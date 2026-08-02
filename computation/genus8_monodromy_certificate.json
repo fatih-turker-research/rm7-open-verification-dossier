@@ -1,0 +1,92 @@
+{
+  "branch_parameter_map": {
+    "formula": "V=375*t/(t-1)",
+    "t=0": "V=0",
+    "t=1": "V=infinity",
+    "t=infinity": "V=375"
+  },
+  "cycle_lengths": {
+    "t=0_order5": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "t=1_order7_unipotent": [
+      1,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7
+    ],
+    "t=infinity_order3": [
+      1,
+      1,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  "degree": 50,
+  "dependencies": [
+    "the Frey rank-two mod-7 local monodromy has orders 5, 3, and nontrivial unipotent order 7 at t=0, infinity, and 1",
+    "the projectivized F49-line cover is finite etale away from t=0,1,infinity",
+    "the normalization of the pinned Phi_7 pullback is this projective-line cover",
+    "the pinned external Phi_7 source represents the intended Hilbert modular polynomial"
+  ],
+  "different_contributions": {
+    "t=0_order5": 40,
+    "t=1_order7_unipotent": 42,
+    "t=infinity_order3": 32
+  },
+  "field": "F_49=F_7[w]/(w^2-5)",
+  "genus": 8,
+  "geometric_connectedness_input": "Q(V)-irreducibility plus the certified Q-rational unramified infinity place implies constant field Q",
+  "matrices_as_F49_indices": {
+    "nonsplit_order5": [
+      0,
+      6,
+      1,
+      24
+    ],
+    "split_order3": [
+      2,
+      0,
+      0,
+      1
+    ],
+    "unipotent_order7": [
+      1,
+      1,
+      0,
+      1
+    ]
+  },
+  "riemann_hurwitz": "2g-2=-2*50+114",
+  "schema": "beal-rm7-projective-monodromy-genus-v1",
+  "scope": "genus and branch-cycle calculation only; no K-rational-point enumeration",
+  "status": "genus-8-dependent-on-explicitly-named-cover-identification-and-local-monodromy-inputs",
+  "total_different": 114
+}

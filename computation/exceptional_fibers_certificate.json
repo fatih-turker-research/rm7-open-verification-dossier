@@ -1,0 +1,361 @@
+{
+  "D_equals_0": {
+    "Q36_coefficient_valuations_X0_through_X50": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ],
+    "Q36_coefficients_low_to_high_sha256": "A62DE1AAE706FD1F33637ED8DFD153ECD8D3149F68EBB25E85C147F1467B3C25",
+    "Q36_mod_23_factor_degrees": [
+      7,
+      13,
+      16
+    ],
+    "different_contribution": 0,
+    "finite_fibre_gcd_degrees_in_mod_23_components": [
+      0,
+      0,
+      0
+    ],
+    "geometric_finite_points_each_base_root": 49,
+    "geometric_infinity_points_each_base_root": 1,
+    "newton_vertices": [
+      [
+        0,
+        0
+      ],
+      [
+        49,
+        0
+      ],
+      [
+        50,
+        2
+      ]
+    ],
+    "ramification_indices": "all 1; the infinity branch has ord_q(X)=-2"
+  },
+  "V_equals_0": {
+    "H10_coefficients_low_to_high": [
+      66085122570168595716674787860218312082472751212978529196738466979180736292037695897600000000000000000000000000000000000000000000000000,
+      11874879377832994904318873226703302425085823237031903443749251003983454304547677143040000000000000000000000000000000000000000000000,
+      931051066152081414282150523097422093158709401938276209189913397121064437798568932147200000000000000000000000000000000000000000,
+      -4700029333591980966588647671802311795741275033078755668764675429218158807946920722432000000000000000000000000000000000000,
+      2375705036806515090082718546325998922082509168406936483683479433387793175013821786357760000000000000000000000000000000,
+      30298335234886037583557628055835107941949888682742514077205491818438999120630230548480000000000000000000000000,
+      354723383764064509136095717149909974152984995746212751367277552005460577501577216000000000000000000000,
+      -4175439595528297146160684835124369906030707539568817303380400682065874303057920000000000000000,
+      10619094919275516476456750389966763498092985664721251938599318014147900211200000000000,
+      -20109557159170241117588260747098306168978936837507717888268612640256000000,
+      103144455508942817709294808870334910575083927801
+    ],
+    "H10_sha256": "7E0BD03F106D5A46E09DB3ECBF573FD118699FE35E92F063B53DDEF43D67BE70",
+    "closed_point_residue_degree": 10,
+    "closed_points": 1,
+    "degree_subset_intersection": [
+      0,
+      10
+    ],
+    "different_contribution": 40,
+    "fibre_scalar": "45121405344483577455089235788340618229280434266925770003808793262578547000885009765625",
+    "first_nonzero_remainder_hashes": [
+      "D5784ABB3168CD8DB340FE77508F10AD1E182AC7012037C6C0D1D9F619C980BB",
+      "9EB9D2D594C7F1784F7CC08447D0CBFF10B0573755A7C1AD71A68621F4F800AA",
+      "C24219C5CDEE221A32E9BDF39ECD9EFC7BBF373FAF24B49C22F815ED1DF86A97",
+      "4DAAB683EE0B5830DA9E1D5E5B9B093582EBD039D47245735B29C304185EC7F3",
+      "F0D2F4598B50ACDD6C33F2AB28524386CFA226D9B21EF60B1755CB4EC04F29D1",
+      "D274C2606DD441B19A8A1C29FD59C031002B2CAC33EA7EA7752FE19EB8E1FDBD"
+    ],
+    "geometric_points": 10,
+    "irreducibility_witness_factor_degrees": {
+      "11": [
+        5,
+        5
+      ],
+      "13": [
+        2,
+        4,
+        4
+      ]
+    },
+    "local_newton_edge": [
+      [
+        0,
+        1
+      ],
+      [
+        5,
+        0
+      ]
+    ],
+    "primitive_fibre_identity": "primitive(F(X,0))=H10(X)^5",
+    "ramification_index_each": 5,
+    "translated_orders_Z0_through_Z5": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ]
+  },
+  "V_equals_375": {
+    "fibre_scalar": "71941127562647096724571870566581199508618266956428453787051532110494831046802147934120759062419083803261792721237188885652358294464647769927978515625",
+    "index_correction_twice_delta": 26,
+    "local_data": [
+      {
+        "different_contribution_per_factor_root": 0,
+        "factor_degree": 1,
+        "fibre_multiplicity": 2,
+        "first_nonzero_remainder_hashes": [
+          "080A9ED428559EF602668B4C00F114F1A11C3F6B02A435F0BDC154578E4D7F22",
+          "080A9ED428559EF602668B4C00F114F1A11C3F6B02A435F0BDC154578E4D7F22",
+          "080A9ED428559EF602668B4C00F114F1A11C3F6B02A435F0BDC154578E4D7F22"
+        ],
+        "geometric_branches_per_factor_root": 2,
+        "ramification_index_each": 1,
+        "translated_orders_0_through_m": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "different_contribution_per_factor_root": 4,
+        "factor_degree": 4,
+        "fibre_multiplicity": 6,
+        "first_nonzero_remainder_hashes": [
+          "22F101194E6C72D9B71C0FA0B3249A39DCD7C039B1E71C0C6C33F7E64D2A4CCB",
+          "A1786498539BF973CBDC77CF000889F1A6877B02EA64F79980EB97EAA0095917",
+          "FA8D667A5BD1CBFA3C822F80AC23813739719D3698EA5851793B5E34C5543732",
+          "E6D0F5A6A75161DDF6A40B16C64E384EE54A8FAB964B56AF5F612A7FBA13EBC6",
+          "073C2E1E03AD095728EB3B0F01436811B053770FB60CDD536815735111C1D929",
+          "B4A539A34AD31EF4482FFD1DAE2D68F2E90C4E5804ABA3DBB266ADCA73355BFA",
+          "456A398338E7D7BF844EB5FA2C7C7E9049F6265E504A50B344CBABE69D318B36"
+        ],
+        "geometric_branches_per_factor_root": 2,
+        "ramification_index_each": 3,
+        "translated_orders_0_through_m": [
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          0
+        ]
+      },
+      {
+        "different_contribution_per_factor_root": 2,
+        "factor_degree": 8,
+        "fibre_multiplicity": 3,
+        "first_nonzero_remainder_hashes": [
+          "1249338A7C441332BA9C2C4B995D05121A814363A69672D58BAC2A0DEC589067",
+          "DA26757275B1E5A684F2E97004821DCF92F11230A15FDD58C2233FD6CB27E365",
+          "1B98A9ADFACBA495EAC2B5ADDE57F3A25CA98B3D4C85CB5240E092130925EBC2",
+          "9BB8F74D8967A27E977FCEC5051A08ABED8155E61956C07AC38FD34C051CB84B"
+        ],
+        "geometric_branches_per_factor_root": 1,
+        "ramification_index_each": 3,
+        "translated_orders_0_through_m": [
+          1,
+          1,
+          1,
+          0
+        ]
+      }
+    ],
+    "normalized_different_contribution": 32,
+    "polynomial_discriminant_order": 58,
+    "primitive_fibre_factor_degrees_and_multiplicities": [
+      [
+        1,
+        2
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        8,
+        3
+      ]
+    ]
+  },
+  "V_equals_infinity": {
+    "degree_7_residual_coefficients_low_to_high": [
+      -282429536481,
+      419686804426365,
+      -129503283614995500,
+      24511659357427995375,
+      67470825277566545625,
+      89357517005559862500,
+      -382423904078125,
+      4613203125
+    ],
+    "degree_7_residual_raw_scalar": "-1824800363140073127359051977856583921",
+    "degree_7_residual_sha256": "0C936006C02D53265181722FCC43648CA8ED02EB52F1988472EFE0A2CB1A99DD",
+    "different_contribution": 42,
+    "edge_slopes": [
+      "2/7",
+      "14"
+    ],
+    "geometric_points": 8,
+    "irreducibility_witness_prime": 13,
+    "newton_vertices": [
+      [
+        0,
+        0
+      ],
+      [
+        49,
+        14
+      ],
+      [
+        50,
+        28
+      ]
+    ],
+    "ramification_indices": [
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      1
+    ],
+    "ramified_closed_point_e": 7,
+    "ramified_closed_point_residue_degree": 7,
+    "rational_unramified_branch_leading_coefficient": "2541865828329/6168828125",
+    "w_orders_X0_through_X50": [
+      0,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      4,
+      4,
+      4,
+      4,
+      5,
+      5,
+      5,
+      6,
+      6,
+      6,
+      6,
+      7,
+      7,
+      7,
+      8,
+      8,
+      8,
+      8,
+      9,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10,
+      11,
+      11,
+      11,
+      12,
+      12,
+      12,
+      12,
+      13,
+      13,
+      13,
+      14,
+      14,
+      14,
+      14,
+      28
+    ]
+  },
+  "consequences": {
+    "conditional_genus_if_normalization_is_etale_off_the_three_boundary_values": 8,
+    "genus_8_dependency": "application to the pinned modular cover uses the separately documented dependency-separated cover-identification and etaleness theorem",
+    "geometric_integrality_lemma": "Q(V)-irreducibility plus the Q-rational infinity place forces constant field Q, hence geometric integrality in characteristic zero",
+    "rational_infinity_place": true,
+    "raw_polynomial_discriminant_warning": "the plane-model discriminant counts index defects and cannot be inserted directly into Riemann-Hurwitz",
+    "three_boundary_cycle_types": {
+      "V=0": "5^10",
+      "V=375": "1^2 3^16",
+      "V=infinity": "1 7^7"
+    },
+    "three_boundary_different_total": 114
+  },
+  "scope_boundary": [
+    "this local certificate does not itself prove the separately documented dependency-separated cover-identification and etaleness theorem",
+    "independent regeneration of the third-party modular-polynomial interpolation remains open",
+    "companion invariants, cusp and orientation and descent checks, and the complete K-rational point set remain open for C-029",
+    "characteristic-zero lifting of the modulo-1009 node certificate is optional consistency work, not required by the controlling genus proof"
+  ],
+  "schema": "beal-rm7-exceptional-fibres-v2",
+  "source": {
+    "canonical_F_sha256": "C8BEB2665A88AC2F8F3172ACE30087ECFA707FCFA45F5363973F9D8CA29C54CC",
+    "common_V_factor_removed": 64,
+    "integer_content_removed": "966496073348591273592564192913999734648078336",
+    "member_manifest_sha256": "CB9F8AA7B7F33DD34895A201C4261B6636B69F20C8EAFAA393905072E5ECBE38",
+    "scalar_denominator_cleared": "2067951531382569187178521730174907133914530277252197265625"
+  }
+}

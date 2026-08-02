@@ -1,0 +1,60 @@
+{
+  "canonical_payload_sha256": "D548DE2CEB8D52FA6C037F23247B3467D4219353A43C66A0B9F22391CCF27870",
+  "cycle_types": {
+    "V=0": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "V=375": [
+      1,
+      1,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "V=infinity": [
+      1,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7
+    ]
+  },
+  "degree": 50,
+  "different_contributions": {
+    "V=0": 40,
+    "V=375": 32,
+    "V=infinity": 42
+  },
+  "field": "F7[w]/(w^2-5)",
+  "genus": 8,
+  "parameter_change": "V=375*t/(t-1)",
+  "riemann_hurwitz": "2g-2=-2*50+114=14",
+  "schema": "rm7-projective-monodromy-genus-v1",
+  "status": "exact permutation calculation; pullback-cover identification is an external theorem dependency",
+  "total_different": 114
+}

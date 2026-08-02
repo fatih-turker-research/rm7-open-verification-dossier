@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Do not cite this artifact as a proved theorem. If you must reference the verification dossier itself, use the metadata below and preserve its unverified status."
+title: "RM(7) Open Verification Dossier: AI-Assisted Candidate Computations for a Degree-50 Pullback"
+type: dataset
+version: "1.0.0"
+date-released: "2026-08-02"
+authors:
+  - alias: "ftrspor"
+repository-code: "https://github.com/ftrspor/rm7-open-verification-dossier"
+license: "CC-BY-4.0"
+abstract: "An AI-assisted, unverified package of code, certificates, and audit notes released to solicit independent checking. No human mathematical authorship, peer review, theorem, Diophantine solution, Beal solution, or prize qualification is claimed."
+keywords:
+  - "open verification"
+  - "computer-assisted mathematics"
+  - "Hilbert modular polynomial"
+  - "real multiplication"
+  - "generalized Fermat equation"
+
