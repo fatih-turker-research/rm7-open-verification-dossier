@@ -10,7 +10,7 @@ This repository exposes a narrow computational candidate for public checking. It
 
 The package is designed to make errors easier to find. It is not intended to turn unverified AI-generated reasoning into verified human research.
 
-The main document is [`RM7_OPEN_VERIFICATION_DOSSIER.pdf`](RM7_OPEN_VERIFICATION_DOSSIER.pdf).
+The main document is [`RM7_OPEN_VERIFICATION_DOSSIER.pdf`](RM7_OPEN_VERIFICATION_DOSSIER.pdf). Reviewers who want the shortest route through the package should start with [`REVIEW_REQUEST.md`](REVIEW_REQUEST.md).
 
 ## Candidate reported by the package
 
@@ -72,11 +72,14 @@ Qualified reviewers are asked to focus on five questions:
 4. Is the assertion of no additional interior ramification justified by the cited results and hypotheses?
 5. If those points hold, does Riemann-Hurwitz establish genus 8 for the normalization?
 
+Reviewers are not being asked to endorse the dossier or check every file. A single fatal gap, missing hypothesis, reproducibility failure, or relevant reference is useful. Focused feedback can be submitted through the [verification-feedback issue form](https://github.com/ftrspor/rm7-open-verification-dossier/issues/new?template=verification-feedback.md). Please identify the question number and the exact file or section being discussed.
+
 ## Layout
 
 - `reports/`: claim ledger, proof obligations, dependency analyses, and audit notes.
 - `computation/`: exact certificates and Python/Node verification programs.
 - `source/`: source used to generate the PDF dossier.
+- `REVIEW_REQUEST.md`: five short review routes and the requested response format.
 - `SHA256SUMS.txt`: package-level file manifest.
 
 ## Licences

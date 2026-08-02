@@ -2,7 +2,7 @@
 
 ## Hilbert modular-polynomial coefficient archive
 
-The computations refer to Emrah Milio's inert discriminant-5 Gundlach modular-polynomial data:
+The computations refer to Enea Milio's inert discriminant-5 Gundlach modular-polynomial data:
 
 - landing page: <https://members.loria.fr/EMilio/modular-polynomials/>
 - archive name: `PolQ5Gundlach-7.tar.gz`
@@ -20,4 +20,3 @@ The package cites, but does not redistribute, mathematical papers including:
 - American Mathematical Society, *Procedures for Determination of an Award of the Beal Prize*, Council Attachment W.
 
 All names, papers, databases, software dependencies, and quoted identifiers remain subject to their respective rights and licences.
-
